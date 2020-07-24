@@ -34,6 +34,11 @@ fields:
   - type: text
     name: github_handle
     label: github_handle
+  - name: goodreads_handle
+    type: text
+    config:
+      required: false
+    label: goodreads_handle
 - name: background_color
   type: color
   label: background_color
