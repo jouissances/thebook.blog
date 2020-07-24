@@ -23,22 +23,19 @@ fields:
   - type: text
     name: email
     label: email
+  - name: goodreads_handle
+    type: text
+    config:
+      required: false
+    label: goodreads_handle
   - name: tumblr_handle
     type: text
     config:
       required: false
     label: tumblr_handle
   - type: text
-    name: twitter_handle
-    label: twitter_handle
-  - type: text
     name: github_handle
     label: github_handle
-  - name: goodreads_handle
-    type: text
-    config:
-      required: false
-    label: goodreads_handle
 - name: background_color
   type: color
   label: background_color
