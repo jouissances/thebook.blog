@@ -1,8 +1,8 @@
 <template>
     <section>
         <ul class="list">
-             <li v-for="post in posts" :key="post.node.title">
-                <g-link :to="post.node.path">
+             <g-link v-for="post in posts" :key="post.node.title" :to="post.node.path" >
+                <li>
                     <div class="hero_image">
                         <g-image 
                           :src="post.node.hero_image" 
@@ -14,11 +14,11 @@
                     </div>
                     <div class="blogList__info">
                         <h2>{{ post.node.title }}</h2>
-                        <h3>{{ formatDate(post.node.date) }}</h3>
+                        <h3>{{ formatDate(post.node.date) }} | {{ post.node.tags }}</h3>
                         <p v-html="formatExcerpt(post.node.content)"></p>
                     </div>
-                </g-link>
-             </li>            
+                </li>
+            </g-link>            
         </ul>
     </section>                       
 </template>
