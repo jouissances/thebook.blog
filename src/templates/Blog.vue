@@ -50,6 +50,7 @@ query getPostData ($path: String!) {
         author
         content
         hero_image (quality: 80)
+        tags
     }
     all: allBlog {
         edges {
