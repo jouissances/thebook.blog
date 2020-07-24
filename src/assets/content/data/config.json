@@ -1,12 +1,11 @@
 {
-    "title": "Brevifolia",
-    "description": "Starter blog using Forestry CMS with Gridsome.",
-    "contact": {
-      "email": "info@forestry.io",
-      "twitter_handle": "forestryio",
-      "github_handle": "forestryio"
-    },
-    "primary_color": "#ACCAC5",
-    "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
-  }
-  
+  "title": "thebook.blog",
+  "description": "A space for books to breathe, even after they close. Where words are scratched, smudged, written, erased, projected, spoken, thought of.",
+  "contact": {
+    "email": "jouissances94@gmail.com",
+    "twitter_handle": "jouissances_",
+    "github_handle": "jouissances"
+  },
+  "primary_color": "#ACCAC5",
+  "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
+}
