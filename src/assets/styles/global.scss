@@ -36,6 +36,7 @@ p {
 
 h1, h2 {
   font-weight: 700;
+  transform: scale(0.9, 1.0);
 }
 
 h1 {
@@ -56,6 +57,7 @@ h3 {
   line-height: 1.1875;
   color: #A0A0A0;
   font-weight: normal;
+  transform: scaleY(0.8);
 }
 
 p {
