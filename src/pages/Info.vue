@@ -13,8 +13,15 @@
                 </li>
                 <li>
                     <p>
-                        <a :href="`https://twitter.com/${data.contact.twitter_handle}`">
-                            Twitter: @{{ data.contact.twitter_handle}}
+                        <a :href="`https://goodreads.com/${data.contact.goodreads_handle}`">
+                            goodreads: @{{ data.contact.goodreads_handle}}
+                        </a>
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        <a :href="`https://tumblr.com/${data.contact.tumblr_handle}`">
+                            tumblr: @{{ data.contact.tumblr_handle}}
                         </a>
                     </p>
                 </li>
@@ -56,7 +63,7 @@
                 cta 
                 contact {
                     email
-                    twitter_handle
+                    tumblr_handle
                     github_handle
                 }
                 background_color
