@@ -24,10 +24,10 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
-- name: category
+- name: tags
   type: tag_list
   default: []
-  label: category
+  label: tags
 pages:
 - src/assets/content/blog/an-essay-on-walking.md
 - src/assets/content/blog/ne-te-quaesiveris-extra.md
