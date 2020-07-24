@@ -6,7 +6,7 @@
             </figure>
             <div class="blog__info" >
             <h1>{{ $page.post.title }}</h1>
-            <h3>{{ $page.post.date }}</h3>
+            <h3>{{ $page.post.date }} | {{ $page.post.category }} </h3>
             </div>
             <div class="blog__body" v-html="$page.post.content"></div>
             <div class="blog__footer">
