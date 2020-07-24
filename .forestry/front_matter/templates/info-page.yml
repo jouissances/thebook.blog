@@ -23,6 +23,11 @@ fields:
   - type: text
     name: email
     label: email
+  - name: tumblr_handle
+    type: text
+    config:
+      required: false
+    label: tumblr_handle
   - type: text
     name: twitter_handle
     label: twitter_handle
