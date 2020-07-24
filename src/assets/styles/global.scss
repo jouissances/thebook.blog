@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,200;0,700;1,200;1,700&family=Forum&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,200;0,700;1,200;1,700&family=Forum&display=swap');
 
 body {
-  font-family: "Epilogue","Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Forum", "Georgia", Georgia, serif;
   overflow-x: hidden;
   color: #000;
   font-size: 16px;
@@ -26,12 +26,13 @@ ul {
 //TYPOGRAPHY-------------------------------------
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Forum", "Georgia", Georgia, serif;
+  font-family: "Epilogue","Helvetica Neue", Helvetica, sans-serif;
   // font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 700;
 }
 
 p {
-  font-family: "Epilogue","Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Forum", "Georgia", Georgia, serif;
 }
 
 h1, h2 {
