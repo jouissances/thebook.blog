@@ -3,8 +3,6 @@ title: Song of Myself
 author: Walt Whitman
 date: 2019-07-19T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-category:
-- Test
 tags:
 - Test
 

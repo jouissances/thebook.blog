@@ -3,8 +3,6 @@ title: An Essay on Walking
 author: Henry David Thoreau
 date: 2019-07-29T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
-category:
-- Test
 tags:
 - Test
 

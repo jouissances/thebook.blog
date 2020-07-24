@@ -3,8 +3,6 @@ title: On the Geneology of Morals
 author: Friedrich Nietzsche
 date: 2019-08-19T07:00:00.000+00:00
 hero_image: "/src/assets/content/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
-category:
-- Test
 tags:
 - Test
 
