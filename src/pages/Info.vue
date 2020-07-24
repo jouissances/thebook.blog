@@ -63,6 +63,7 @@
                 cta 
                 contact {
                     email
+                    goodreads_handle
                     tumblr_handle
                     github_handle
                 }
