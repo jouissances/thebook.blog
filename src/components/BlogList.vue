@@ -1,7 +1,7 @@
 <template>
     <section>
         <ul class="list">
-             <li v-for="post in posts" :key="post.node.title" :to="post.node.path" >
+             <li v-for="post in posts" :key="post.node.title">
                 <g-link :to="post.node.path">
                     <div class="hero_image">
                         <g-image 
