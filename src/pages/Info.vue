@@ -14,14 +14,14 @@
                 <li>
                     <p>
                         <a :href="`https://goodreads.com/${data.contact.goodreads_handle}`">
-                            goodreads: @{{ data.contact.goodreads_handle}}
+                            Goodreads: @{{ data.contact.goodreads_handle}}
                         </a>
                     </p>
                 </li>
                 <li>
                     <p>
                         <a :href="`https://tumblr.com/${data.contact.tumblr_handle}`">
-                            tumblr: @{{ data.contact.tumblr_handle}}
+                            Tumblr: @{{ data.contact.tumblr_handle}}
                         </a>
                     </p>
                 </li>
