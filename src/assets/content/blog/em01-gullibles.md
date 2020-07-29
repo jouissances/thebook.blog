@@ -1,15 +1,16 @@
 ---
-tags: []
+tags:
+- dreams
 title: 'EM01: Gullibles'
 author: Janice Darikho
-date: 
-hero_image: ''
+date: 2020-07-28T16:00:00Z
+hero_image: "/src/assets/content/images/anomaly-oRskqiH7FNc-unsplash.jpg"
 
 ---
 * setting: tambun, tuesday morning \~6-8AM
 * woke up late for school, a hurried affair involving textbooks and a PE uniform
 * the driver's left
-* had to call in help — the whole village was involved
+* mom had to call in help — the whole village was involved
 * a handsome boy was utterly unhappy and spread dissent
 * sampans and hyenas lunging and dirty rivers
 * making up
