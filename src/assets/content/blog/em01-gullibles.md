@@ -1,6 +1,6 @@
 ---
 tags:
-- dreams
+- Dreams
 title: 'EM01: Gullibles'
 author: Janice Darikho
 date: 2020-07-28T16:00:00Z
