@@ -3,7 +3,7 @@ tags:
 - Dreams
 title: 'EM03: Ornamental'
 author: Janice Darikho
-date: 2020-07-29T16:00:00Z
+date: 2020-07-30T16:00:00Z
 hero_image: "/src/assets/content/images/qingbao-meng-01_igfr7hd4-unsplash.jpg"
 
 ---
