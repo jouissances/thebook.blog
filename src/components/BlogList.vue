@@ -113,8 +113,7 @@
   }
 
   @media (min-width: 321px) {
-    li {
-      div.hero_image {
+    .list .hero_image {
         height: 20vh;
       }
     }

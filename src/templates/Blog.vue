@@ -188,7 +188,7 @@ query getPostData ($path: String!) {
         }
         .blog__body {
             blockquote, p {
-                width: 88%;
+                width: 92%;
             }
             blockquote {
                 padding: 1rem;
