@@ -38,6 +38,12 @@ import Header from '~/components/Header.vue'
   .content {
     flex-grow: 1;
   }
+
+  @media (min-width: 451px) {
+    .content {
+      width: 100vw;
+    }
+  }
     
   @media (min-width: 768px) {
     .layout {
