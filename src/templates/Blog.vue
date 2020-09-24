@@ -157,7 +157,7 @@ query getPostData ($path: String!) {
 
     .blog__footer {
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
         align-items: center;
         padding: 1.5rem 3rem;
         width: 100%;
@@ -210,7 +210,7 @@ query getPostData ($path: String!) {
         }
         .blog__footer {
             // padding: 2.25rem;
-            padding: 2.25rem 3rem;
+            padding: 1rem 3rem 3rem;
         }
     }
 
@@ -222,7 +222,7 @@ query getPostData ($path: String!) {
             padding: 3rem 0;
         }
         .blog__footer {
-            padding: 2rem 2rem 3rem 2rem;
+            padding: 1rem 2rem 3rem 2rem;
         }
     }
 
