@@ -85,7 +85,10 @@
 
     @media (min-width: 768px) {
         .info__blurb {
-            padding: 2rem;
+            padding: 3rem;
+        }
+        p {
+            font-size: 1.2rem;
         }
     }
 
