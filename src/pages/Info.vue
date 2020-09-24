@@ -90,6 +90,12 @@
         }
     }
 
+    @media (min-width: 321px) {
+        .info__blurb {
+            padding: 2.5rem 2.25rem;
+        }
+    }
+
     @media (min-width: 768px) {
         .info__blurb {
             padding: 3rem;
