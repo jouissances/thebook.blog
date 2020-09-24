@@ -16,56 +16,32 @@ Would an object remember its owners? Would places remember their strangers? Or i
 3\.  
 The bringing of food is the gentlest of kindness. The sharing of food, the kindest and most selfless form of love.
 
-> **Restaurant**
+> **Restaurant  
+> **_Cyril Wong_
 >
-> _Cyril Wong_
->
-> First, an object, or a place,
->
-> then the rest of it. But what happens
->
-> to a feeling when the memory
->
-> from which it sprang
->
-> is vanishing? The difficulty, at present,
->
-> is in the particulars; the restaurant,
->
-> its name, the location, still clear;
->
-> but the food on a table widening
->
-> between us—what did we eat again?
->
-> And what was said? Or was there
->
-> just a long silence amplified by banal
->
-> questions: favourite movies,
->
-> current profession, boyfriend?
->
-> What was missing: deeper 
->
-> interest; a willingness to enjoy
->
-> the company; or just a question
->
-> about the lessons of a solitary life
->
-> that could turn it all around,
->
-> leading to friendship, even tenderness.
->
-> So what’s lost that I fail to recall;
->
-> much less a tragedy than I need it
->
-> to be? What remains: a gap in the mind,
->
-> the shattered echo of a possibility;
->
+> First, an object, or a place,  
+> then the rest of it. But what happens  
+> to a feeling when the memory  
+> from which it sprang  
+> is vanishing? The difficulty, at present,  
+> is in the particulars; the restaurant,  
+> its name, the location, still clear;  
+> but the food on a table widening  
+> between us—what did we eat again?  
+> And what was said? Or was there  
+> just a long silence amplified by banal  
+> questions: favourite movies,  
+> current profession, boyfriend?  
+> What was missing: deeper  
+> interest; a willingness to enjoy  
+> the company; or just a question  
+> about the lessons of a solitary life  
+> that could turn it all around,  
+> leading to friendship, even tenderness.  
+> So what’s lost that I fail to recall;  
+> much less a tragedy than I need it  
+> to be? What remains: a gap in the mind,  
+> the shattered echo of a possibility;  
 > less than a feeling now, then not even that.
 
 —
