@@ -78,6 +78,7 @@
     .info__blurb {
         max-width: 800px;
         padding: 1.5rem 1.25rem;
+        margin: 0 auto;
         p {
             font-size: 1rem;
         }
