@@ -49,7 +49,7 @@ export default {
   
 .nav {
     padding: 1.5rem 1.25rem;
-    border-bottom: 1px solid #EBEBEB;
+    border-bottom: 1px solid #e8ddcb;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -70,7 +70,7 @@ export default {
     
     .nav {
       padding: 2rem;
-      width: 30vw;
+      width: 25vw;
       height: 100%;
       border-right: 1px solid #EBEBEB;
       border-bottom: none;

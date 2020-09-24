@@ -1,5 +1,5 @@
 <template>
-    <section>
+    <section class="blogList__column">
         <ul class="list">
              <g-link v-for="post in posts" :key="post.node.title" :to="post.node.path" >
                 <li>
@@ -36,14 +36,19 @@
             return new Date(date).toDateString().slice(4)
           }, 
           formatExcerpt(excerpt) {
-            const blurb = excerpt.slice(3,200).trim()
-            return blurb.indexOf('</p>') !== -1 ? blurb.slice( 0, blurb.indexOf('</p>')  ).trim()  + "..." : blurb  + "..."
+            const blurb = excerpt.slice(3,255).trim()
+            return blurb.indexOf('</p>') !== -1 ? blurb.slice( 0, blurb.indexOf('</p>')  ).trim()  + " ..." : blurb  + " ..."
           }
         }
     }
 </script>
 
 <style scoped lang="scss">
+.blogList__column {
+  width: 75.5vw;
+  background: #e8ddcb;
+}
+
 .list {
     a:hover {
       opacity: 1;
@@ -73,8 +78,8 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
-      padding: 1.5rem 1.25rem;
-      border-bottom: 1px solid #ebebeb;
+      padding: 1.5rem 2.25rem;
+      border-bottom: 1px solid #e8ddcb;
       h2,
       h3,
       p {
@@ -101,7 +106,8 @@
     }
     p {
       max-width: 900px;
-      color: #464646;
+      text-align: justify;
+      color: #37301e;
     }
   }
   

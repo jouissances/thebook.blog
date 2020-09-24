@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,300;0,700;1,300;1,700&family=Forum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&family=Rosarivo:ital@0;1&display=swap');
 
 body {
-  font-family: "Forum", "Georgia", Georgia, serif;
+  font-family: "Rosarivo", "Georgia", Georgia, serif;
   overflow-x: hidden;
-  color: #000;
+  color: #fff;
+  background: #282e2a;
   font-size: 16px;
 }
 
@@ -26,16 +27,16 @@ ul {
 //TYPOGRAPHY-------------------------------------
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Epilogue","Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Karla","Helvetica Neue", Helvetica, sans-serif;
   // font-family: "Work Sans","Helvetica Neue", Helvetica, sans-serif;
 }
 
 p {
-  font-family: "Forum", "Georgia", Georgia, serif;
+  font-family: "Rosarivo", "Georgia", Georgia, serif;
 }
 
 h1, h2 {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 h1 {
@@ -48,10 +49,11 @@ h2 {
   font-size: 1.7rem;
   letter-spacing: -.75px;
   line-height: 1.2;
+  color: #444444;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   letter-spacing: -.5px;
   line-height: 1.1875;
   color: #A0A0A0;
@@ -59,7 +61,7 @@ h3 {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   letter-spacing: -.5px;
   line-height: 1.5;
 }

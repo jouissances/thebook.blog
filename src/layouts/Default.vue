@@ -45,8 +45,9 @@ import Header from '~/components/Header.vue'
     }
     .content {
       flex-grow: none;
-      width: 70vw;
-      margin-left: 30vw;
+      width: 74vw;
+      /* padding-right: 1vw; */
+      margin-left: 25vw;
     }
   }
 </style>

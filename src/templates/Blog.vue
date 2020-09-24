@@ -69,6 +69,8 @@ query getPostData ($path: String!) {
 
 <style lang="scss" >
     .blog {
+        width: 75vw;
+        background: #e8ddcb;
         h1 {
             margin-bottom: 0.7rem;
         }
@@ -95,6 +97,7 @@ query getPostData ($path: String!) {
         max-width: 768px;
         margin: 0 auto;
         h1 {
+            color: #37301e;
             margin-bottom: 0.66rem;
         }
         h3 {
@@ -104,7 +107,7 @@ query getPostData ($path: String!) {
 
     .blog__body {
         width: 100%;
-        padding: 0 1.25rem;
+        padding: 0 3rem;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
@@ -116,14 +119,16 @@ query getPostData ($path: String!) {
             margin-bottom: 0;
         }
         h1, h2, h3, h4, h5, h6 {
+            color: #37301e;
             font-weight: normal;
             padding: 1.5rem;
             line-height: 1.2;
             margin-bottom: 1.5rem;
         }
         p {
-            color: #464646;
+            color: #37301e;
             font-weight: normal;
+            line-height: 1.75;
             img {
                 margin: 1rem 0;
             }
@@ -142,7 +147,7 @@ query getPostData ($path: String!) {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 1.5rem 1.25rem;
+        padding: 1.5rem 3rem;
         width: 100%;
         max-width: 800px;
         margin: 0 auto;
@@ -166,7 +171,7 @@ query getPostData ($path: String!) {
         }
         .blog__body {
             max-width: 800px;
-            padding: 0 2rem;
+            padding: 0 3rem;
             span {
             width: 100%;
             margin: 1.5rem auto;
@@ -185,14 +190,15 @@ query getPostData ($path: String!) {
         }
         .blog__info {
             text-align: center;
-            padding: 2rem 0;
+            padding: 2rem 0 1.75rem 0;
             h1 {
             max-width: 500px;
             margin: 0 auto 0.66rem auto;
             }
         }
         .blog__footer {
-            padding: 2.25rem;
+            // padding: 2.25rem;
+            padding: 2.25rem 3rem;
         }
     }
 
