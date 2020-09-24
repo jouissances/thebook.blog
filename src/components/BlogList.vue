@@ -115,7 +115,6 @@
   @media (min-width: 321px) {
     .list .hero_image {
         height: 20vh;
-      }
     }
     .blogList__column {
       width: 100%;  
