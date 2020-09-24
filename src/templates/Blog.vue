@@ -131,9 +131,13 @@ query getPostData ($path: String!) {
             border-bottom: 1px solid #37301e;
         }
         h1, h2, h3, h4, h5, h6 {
-            width: 75%;
-            margin: 1.5rem auto;
             font-style: italic;
+        }
+        blockquote {
+            margin: 1.5rem auto;
+        }
+        blockquote, p {
+            width: 75%;
         }
         p {
             color: #37301e;
