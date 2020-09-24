@@ -2,7 +2,7 @@
 tags:
 - poetry
 title: Restaurant by Cyril Wong
-author: Janice Darikho
+author: J.
 date: 2020-09-24T08:15:00Z
 hero_image: "/src/assets/content/images/1.jpg"
 
