@@ -120,10 +120,16 @@ query getPostData ($path: String!) {
         }
         h1, h2, h3, h4, h5, h6 {
             color: #37301e;
-            font-weight: normal;
-            padding: 1.5rem;
-            line-height: 1.2;
+            font-weight: 400;
+            font-size: 1.25rem;
+            font-style: italic;
+            padding: 2.5rem;
+            line-height: 1.25;
+            letter-spacing: -.5px;
             margin-bottom: 1.5rem;
+            background: white;
+            border-top: 1px solid #37301e;
+            border-bottom: 1px solid #37301e;
         }
         p {
             color: #37301e;
