@@ -32,7 +32,7 @@ import Header from '~/components/Header.vue'
   }
 
   .layout .info_page {
-    color: #ebebeb;
+    color: #9b978e;
   }
     
   .content {

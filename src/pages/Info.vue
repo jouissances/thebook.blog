@@ -14,14 +14,14 @@
                 <li>
                     <p>
                         <a :href="`https://goodreads.com/${data.contact.goodreads_handle}`">
-                            Goodreads: @{{ data.contact.goodreads_handle}}
+                            Goodreads: {{ data.contact.goodreads_handle}}
                         </a>
                     </p>
                 </li>
                 <li>
                     <p>
                         <a :href="`https://tumblr.com/${data.contact.tumblr_handle}`">
-                            Tumblr: @{{ data.contact.tumblr_handle}}
+                            Tumblr: {{ data.contact.tumblr_handle}}
                         </a>
                     </p>
                 </li>
@@ -79,7 +79,13 @@
         max-width: 800px;
         padding: 1.5rem 1.25rem;
         p {
-            font-size: 1.4rem;
+            font-size: 1rem;
+        }
+        hr {
+            background: #e8ddcb;
+        }
+        li {
+            margin-bottom: 0;
         }
     }
 
