@@ -1,6 +1,6 @@
 ---
 tags:
-- poetry
+- Poetry
 title: Restaurant by Cyril Wong
 author: J.
 date: 2020-09-24T08:15:00Z
