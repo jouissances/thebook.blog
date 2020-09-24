@@ -116,6 +116,7 @@
     li {
       div.hero_image {
         height: 20vh;
+      }
     }
     .blogList__column {
       width: 100%;  
