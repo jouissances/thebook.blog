@@ -118,7 +118,7 @@ query getPostData ($path: String!) {
         :last-child {
             margin-bottom: 0;
         }
-        h1, h2, h3, h4, h5, h6 {
+        h1, h2, h3, h4, h5, h6, blockquote {
             color: #37301e;
             font-weight: 400;
             font-size: 1.25rem;
