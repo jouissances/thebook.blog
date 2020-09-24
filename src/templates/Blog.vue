@@ -176,7 +176,7 @@ query getPostData ($path: String!) {
         }
     }
 
-    @media (min-width: 451px) {
+    @media (min-width: 321px) {
         .blog {
             width: 100%;
         }
