@@ -72,7 +72,7 @@ export default {
       padding: 2rem;
       width: 25vw;
       height: 100%;
-      border-right: 1px solid #EBEBEB;
+      border-right: 1px solid #e8ddcb;
       border-bottom: none;
       flex-direction: column;
       align-items: flex-start;

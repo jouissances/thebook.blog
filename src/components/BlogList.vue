@@ -97,6 +97,7 @@
       flex-direction: column;
       min-height: 38vh;
       margin-bottom: 0;
+      border-bottom: 1px solid #e8ddcb;
     }
     h2 {
       margin-bottom: 0.5rem;
