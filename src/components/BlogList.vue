@@ -111,6 +111,16 @@
       color: #37301e;
     }
   }
+
+  @media (min-width: 321px) {
+    li {
+      div.hero_image {
+        height: 20vh;
+    }
+    .blogList__column {
+      width: 100%;  
+    }
+  }
   
   @media (min-width: 768px) {
     .list {
