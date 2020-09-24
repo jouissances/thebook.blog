@@ -14,7 +14,7 @@ What happens when words dissolve in water, in wine? Do they take on the colour o
 Would an object remember its owners? Would places remember their strangers? Or is remembrance an echo; forgotten once the thought slips away from my mind? Remind me, then. Remind me of the things I've once lost. Remind me forever.
 
 3\.  
-The bringing of food is the gentlest of kindness. The sharing of food, is one of the oldest, kindest, and most selfless form of love.
+The bringing of food is the gentlest of kindness. The sharing of food—I think—is one of the oldest, kindest, and most selfless form of love.
 
 > **Restaurant**  
 > _Cyril Wong_
