@@ -16,8 +16,8 @@ Would an object remember its owners? Would places remember their strangers? Or i
 3\.  
 The bringing of food is the gentlest of kindness. The sharing of food, is one of the oldest, kindest, and most selfless form of love.
 
-> **Restaurant  
-> \**_Cyril Wong_
+> **Restaurant**  
+> _Cyril Wong_
 >
 > First, an object, or a place,  
 > then the rest of it. But what happens  
