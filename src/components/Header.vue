@@ -2,7 +2,7 @@
     <header class="header">
         <nav class="nav">
             <g-link to="/" exact>
-                <h1>{{ $static.metaData.siteName }}</h1>
+                <h1 class="site__name">{{ $static.metaData.siteName }}</h1>
             </g-link>
             <div>
                 <h1>
@@ -59,6 +59,12 @@ export default {
 .nav img {
      margin-bottom: 0;
 }
+
+@media (min-width: 451px) {
+    .header .site__name {
+        width: 100%;
+    }
+}
   
 @media (min-width: 768px) {
     .header {
@@ -66,6 +72,10 @@ export default {
       position: fixed;
       left: 0;
       top: 0;
+    }
+
+    .header .site__name {
+        width: 65%;
     }
     
     .nav {
@@ -78,4 +88,5 @@ export default {
       align-items: flex-start;
     }
 }
+
 </style>

@@ -176,6 +176,26 @@ query getPostData ($path: String!) {
         }
     }
 
+    @media (min-width: 451px) {
+        .blog {
+            width: 100vw;
+        }
+        .blog__info {
+            h1 {
+                padding: 0 3.5rem;
+                margin-bottom: 1rem;
+            }
+        }
+        .blog__body {
+            blockquote, p {
+                width: 88%;
+            }
+            blockquote {
+                padding: 1rem;
+            }
+        }
+    }
+
     @media (min-width: 768px) {
         .blog {
             display: flex;
