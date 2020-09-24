@@ -39,7 +39,7 @@ import Header from '~/components/Header.vue'
     flex-grow: 1;
   }
 
-  @media (min-width: 451px) {
+  @media (min-width: 320px) {
     .content {
       width: 100vw;
     }

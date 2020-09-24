@@ -60,7 +60,7 @@ export default {
      margin-bottom: 0;
 }
 
-@media (min-width: 451px) {
+@media (min-width: 320px) {
     .header .site__name {
         width: 100%;
     }
@@ -86,6 +86,12 @@ export default {
       border-bottom: none;
       flex-direction: column;
       align-items: flex-start;
+    }
+}
+
+@media (min-width: 1024px) {
+    .header .site__name {
+        width: 100%;
     }
 }
 
