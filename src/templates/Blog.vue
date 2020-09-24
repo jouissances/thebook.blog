@@ -177,6 +177,9 @@ query getPostData ($path: String!) {
     }
 
     @media (min-width: 451px) {
+        .blog {
+            width: 100%;
+        }
         .blog__info {
             h1 {
                 padding: 0 3.5rem;
