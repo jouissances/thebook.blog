@@ -51,7 +51,7 @@ import Header from '~/components/Header.vue'
     }
     .content {
       flex-grow: none;
-      width: 74vw;
+      width: 75vw;
       /* padding-right: 1vw; */
       margin-left: 25vw;
     }
